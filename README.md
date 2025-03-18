@@ -1,6 +1,6 @@
 # Book Scraping and Visualization Project
 
-This project scrapes book data (titles, prices, ratings, and images) from a website using Python and `BeautifulSoup`. It organizes the data, generates visualizations of price ranges and ratings with `matplotlib`, and displays the results in a user-friendly web interface. Features include a book recommendation system and price range breakdowns. Scrapes book data (titles, prices, ratings, images) using Python &amp; BeautifulSoup. Generates visualizations with matplotlib and displays results in a web interface. Features recommendations and price breakdowns. Built with Python, HTML, CSS, JS.
+This project scrapes book data (titles, prices, ratings, and images) from a website using Python and `BeautifulSoup`. It organizes the data, generates visualizations of price ranges and ratings with `matplotlib`, and displays the results in a user-friendly web interface. Features include a book recommendation system and price range breakdowns.
 
 ---
 
@@ -34,3 +34,13 @@ This project scrapes book data (titles, prices, ratings, and images) from a webs
    python index.py
    ```
 4. Open `index.html` in your browser to view the web interface.
+
+
+
+## Project Structure
+
+book-scraping-project/
+├── images/              # Book cover images
+├── BooksToScrape.html   # Web interface
+├── index.py             # Python scraping script
+└── README.md            # Project documentation
