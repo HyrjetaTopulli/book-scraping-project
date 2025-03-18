@@ -34,13 +34,3 @@ This project scrapes book data (titles, prices, ratings, and images) from a webs
    python index.py
    ```
 4. Open `index.html` in your browser to view the web interface.
-
-
-
-## Project Structure
-
-book-scraping-project/
-├── images/              # Book cover images
-├── BooksToScrape.html   # Web interface
-├── index.py             # Python scraping script
-└── README.md            # Project documentation
